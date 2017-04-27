@@ -1,0 +1,25 @@
+{
+  "name": "oh-my-errors",
+  "version": "1.0.0",
+  "description": "Simple node module to handle multiple server-side errors with solution strategies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferreiro/oh-my-errors.git"
+  },
+  "keywords": [
+    "errors",
+    "handler",
+    "solutions",
+    "server",
+    "error handling"
+  ],
+  "author": "Jorge Ferreiro <jorge@ferreiro.me>",
+  "bugs": {
+    "url": "https://github.com/ferreiro/oh-my-errors/issues"
+  },
+  "homepage": "https://github.com/ferreiro/oh-my-errors#readme"
+}
