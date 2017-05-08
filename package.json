@@ -1,6 +1,6 @@
 {
   "name": "oh-my-errors",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple node module to handle multiple server-side errors with solution strategies",
   "main": "index.js",
   "scripts": {
